@@ -140,7 +140,7 @@ Have a library you rely on that isn’t listed? Open a pull request:
 
 ```bash
 # fork + clone
-git clone https://github.com/<you>/iva-frontend-libraries.git
+git clone https://github.com/nikhil-isaac/iva-frontend-libraries.git
 cd iva-frontend-libraries
 # edit README.md, then commit & PR against upstream
 ```
