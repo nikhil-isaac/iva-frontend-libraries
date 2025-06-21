@@ -1,4 +1,4 @@
-# iva-frontend-libraries
+# Interactive Visual Analytics - Front-end libraries
 
 > **Essential bookmark list** of front‑end libraries and tools for building interactive visual analytics dashboards and research prototypes (stack: **Next.js + D3.js + Sass**).
 
