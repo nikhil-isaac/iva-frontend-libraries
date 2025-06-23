@@ -62,8 +62,9 @@
 ## 6. Geospatial & Mapping
 
 - [**Mapbox GL JS**](https://github.com/mapbox/mapbox-gl-js) – Vector‑tile rendering with custom styles.
-- [**Protomaps GL JS**](https://github.com/protomaps/protomaps) – Open‑source alternative to Mapbox, works offline.
-- [**Leaflet**](https://github.com/Leaflet/Leaflet) – Lightweight 2D mapping with huge plugin ecosystem.
+- [**MapLibre GL JS** ](https://github.com/maplibre/maplibre-gl-js) - Open‑source alternative to Mapbox, interactive vector tile maps in the browser.
+- [**Protomaps GL JS**](https://github.com/protomaps/PMTiles) – Open‑source alternative to Mapbox, works offline. Smaller bundle (~250 KB) and simpler style API than Mapbox spec;
+- [**Leaflet**](https://github.com/Leaflet/Leaflet) – Open‑source alternative to Mapbox, lightweight 2D mapping with huge plugin ecosystem. Out of the box it’s raster-tile only, but add-ons such as protomaps-leaflet bring vector-tile rendering. Less flashy transitions than WebGL renderers. 
 
 ## 7. Network & Graph Analytics
 
